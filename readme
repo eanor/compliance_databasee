@@ -1,3 +1,4 @@
+## Database for the Compliance_Fake_Database_Project
 This is a repository with fake data for the neo4j project.
 The data imitates the employees in a company and lets a user explore the and create queries using SQL or NoSQL instruments.
 The data imitates the manager-subordinate relationship, and relatives being present in the company. 
